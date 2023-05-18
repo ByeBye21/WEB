@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <a class="nav-link" href="ilgi.html">İlgi Alanlarım</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link active" aria-current="page" href="#">İletişim Sayfası</a>
+                        <a class="nav-link active" aria-current="page" href="iletisim.html">İletişim Sayfası</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="login.html">Login</a>
