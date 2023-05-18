@@ -60,7 +60,7 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
                         <a class="nav-link" href="iletisim.html">İletişim Sayfası</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link active" aria-current="page" href="#">Login</a>
+                        <a class="nav-link active" aria-current="page" href="login.html">Login</a>
                     </li>
                 </ul>
             </div>
