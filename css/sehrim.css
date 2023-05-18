@@ -1,29 +1,14 @@
 .carousel {
-    
-    height:100vh;
-    /*width:100vw;*/
-    object-fit: cover;
-    }
-    
-    .carousel-inner img {
-    
-    height:100vh;
-    width: 100vw;
-    object-fit: cover;
-    
-    }
+  height:100vh;
+  object-fit: cover;
+  }
+  
+  .carousel-inner img {
+  height:100vh;
+  width: 100vw;
+  object-fit: cover;
+  }
+
 #headerSection .row {
-    height:5vh;
-}
-
-.carousel-inner {
-    border-bottom: 3px #28a745 solid;;
-}
-
-.navbar {
-    border-bottom: 3px #28a745 solid;
-} 
-.nav-link:hover{
-    color: whitesmoke!important;
-
+  height:5vh;
 }
