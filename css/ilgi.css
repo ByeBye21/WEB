@@ -1,0 +1,28 @@
+body {
+    background-image: url('../Pictures/football.jpeg');
+}
+  
+  .table thead th {
+    background-color:azure;
+    font-weight: bold;
+  }
+  
+  .table-striped tbody tr:nth-of-type(even) {
+    background-color:azure;
+  }
+
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color:bisque;
+  }
+
+  h1 {
+    color:azure;
+  }
+
+  label {
+  color:azure;
+  }
+
+  section {
+    text-align: center;
+  }

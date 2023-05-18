@@ -1,0 +1,13 @@
+body {
+    background-image: url('../Pictures/1.jpeg');
+}
+
+.container {
+    text-align: center;
+}
+
+.container p {
+    font-size: 48px;
+    margin-bottom: 20px;
+        color:darkslategray;
+}
