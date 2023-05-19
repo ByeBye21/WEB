@@ -7,14 +7,14 @@ h1, h2 {
 }
 
 iframe {
-    width: 400px;
-    height: 200px;
+    width: 512px;
+    height: 256px;
   }
   
-  @media screen {
-  
-    iframe {
-      width: 256px;
-      height: 128px;
-    }
+@media screen and (max-width: 767px) {
+
+  iframe {
+    width: 256px;
+    height: 128px;
   }
+}
