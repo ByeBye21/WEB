@@ -1,5 +1,6 @@
 body {
     background-image: url("../Pictures/qabus2.jpg");
+    background-attachment: scroll;
 }
 
 h1, h2 {
@@ -17,4 +18,9 @@ iframe {
     width: 256px;
     height: 128px;
   }
+
+  body {
+    background-attachment: fixed;
+}
+
 }
