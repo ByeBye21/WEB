@@ -23,3 +23,18 @@ function validateForm() {
 
     return true;
 }
+
+function clearForm() {
+    document.getElementById("name").value = "";
+    document.getElementById("email").value = "";
+    document.getElementById("message").value = "";
+    document.getElementById("cinsiyet").value = "erkek";
+    document.getElementById("language1").checked = false;
+    document.getElementById("language2").checked = false;
+    document.getElementById("language3").checked = false;
+    document.getElementById("language4").checked = false;
+    document.getElementById("p1").checked = false;
+    document.getElementById("p2").checked = false;
+    document.getElementById("p3").checked = false;
+    document.getElementById("p4").checked = false;
+}
